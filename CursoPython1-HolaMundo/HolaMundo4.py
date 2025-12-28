@@ -11,7 +11,7 @@ class TwitterApi:
     # SCREAMING_SNAKE_CASE
 
     VERSION_API = 1
-    URL_API = "https://hack4u.io"
+    URL_API = "https://www.profilepatrick.com"
 
     _protegido = "Estoy protegido."
 
