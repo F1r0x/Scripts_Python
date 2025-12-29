@@ -35,6 +35,8 @@ Repository con recopilación de scripts didácticos de Python3.
 
 ## 🎮 Juegos
 <!-- GAMES_START -->
+- 📁 **[MarioBloc.py](Juegos/MarioBloc.py)** (1 scripts)  
+  Juego de plataformas estilo Mario Bros desarrollado en Python. Incluye movimiento, colisiones.
 
 <!-- GAMES_END -->
 
