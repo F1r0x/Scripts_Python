@@ -1,1 +1,1 @@
-Uso de listas, tipos de datos y ejemplos prácticos.
+Introducción a listas en Python: creación, manipulación, recorridos y métodos útiles.

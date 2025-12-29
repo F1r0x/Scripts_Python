@@ -1,1 +1,1 @@
-Uso de tuplas, tipos de datos y ejemplos prácticos.
+Aprende a trabajar con tuplas en Python, sus características y cómo usarlas de forma eficiente.

@@ -1,1 +1,1 @@
-Uso de String Format y buenas prácticas con ejemplos prácticos.
+Aprende a manejar cadenas de texto, formatearlas y utilizar f-strings y métodos de strings en Python.

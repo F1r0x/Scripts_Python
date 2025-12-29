@@ -1,1 +1,1 @@
-Introducción básica a Python y primer programa.
+Introducción a Python con ejemplos básicos. Aprende a ejecutar tu primer programa y conceptos fundamentales.

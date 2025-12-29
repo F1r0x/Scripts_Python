@@ -1,0 +1,1 @@
+Aprende a manejar errores y excepciones en Python usando try, except, finally y raise.

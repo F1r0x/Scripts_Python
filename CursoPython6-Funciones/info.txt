@@ -1,1 +1,1 @@
-Uso de funciones, tipos de datos y ejemplos prácticos.
+Creación y uso de funciones en Python para organizar el código y reutilizar lógica de manera eficiente.

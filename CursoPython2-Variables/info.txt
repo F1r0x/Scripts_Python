@@ -1,1 +1,1 @@
-Uso de variables, tipos de datos y ejemplos prácticos.
+Explicación de variables, tipos de datos y operaciones básicas en Python con ejemplos prácticos.

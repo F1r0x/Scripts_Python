@@ -1,1 +1,1 @@
-Uso de operaciones y ejemplos prácticos.
+Realiza operaciones matemáticas, lógicas y comparaciones para sentar las bases de la programación.

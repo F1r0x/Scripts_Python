@@ -1,1 +1,1 @@
-Control de flujo de datos y ejemplos prácticos.
+Uso de estructuras de control: condicionales, bucles y control de flujo para tomar decisiones en programas.
