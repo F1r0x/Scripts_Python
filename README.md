@@ -4,8 +4,7 @@ Repository con recopilación de scripts didácticos de Python3.
 
 ## 📂 Proyectos
 <!-- COURSES_START -->
-- 📁 **[CursoPython-Nmap](CursoPython-Nmap)** (2 scripts)  
-  Sin descripción.
+- 📁 **[CursoPython-Nmap](CursoPython-Nmap)** (2 scripts)
 
 - 📁 **[CursoPython1-HolaMundo](CursoPython1-HolaMundo)** (4 scripts)  
   Introducción básica a Python y primer programa.
@@ -25,21 +24,15 @@ Repository con recopilación de scripts didácticos de Python3.
 - 📁 **[CursoPython6-Funciones](CursoPython6-Funciones)** (5 scripts)  
   Uso de funciones, tipos de datos y ejemplos prácticos.
 
-- 📁 **[CursoPython7-ControlDeErrores](CursoPython7-ControlDeErrores)** (2 scripts)  
-  
+- 📁 **[CursoPython7-ControlDeErrores](CursoPython7-ControlDeErrores)** (2 scripts)
 
 - 📁 **[CursoPython8-Listas](CursoPython8-Listas)** (9 scripts)  
   Uso de listas, tipos de datos y ejemplos prácticos.
-
-- 📁 **[CursoPython9-Tuplas](CursoPython9-Tuplas)** (0 scripts)  
-  Uso de tuplas, tipos de datos y ejemplos prácticos.
 
 <!-- COURSES_END -->
 
 ## 🎮 Juegos
 <!-- GAMES_START -->
-- 📁 **[MarioBloc.py](Juegos/MarioBloc.py)** (0 scripts)  
-  
 
 <!-- GAMES_END -->
 
