@@ -34,6 +34,9 @@ Repository con recopilación de scripts didácticos de Python3.
 - 📁 **[CursoPython9-Tuplas](CursoPython9-Tuplas)** (0 scripts)  
   Uso de tuplas, tipos de datos y ejemplos prácticos.
 
+- 📁 **[CursoPython10](CursoPython10)** (0 scripts)  
+  Próximamente.
+
 <!-- COURSES_END -->
 
 ## 🎮 Juegos
