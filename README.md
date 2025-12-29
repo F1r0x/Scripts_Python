@@ -4,7 +4,6 @@ Repository con recopilación de scripts didácticos de Python3.
 
 ## 📂 Proyectos
 <!-- PROJECTS_START -->
-- [.vscode](./.vscode)
 - [CursoPython-Nmap](./CursoPython-Nmap)
 - [CursoPython1-HolaMundo](./CursoPython1-HolaMundo)
 - [CursoPython2-Variables](./CursoPython2-Variables)
@@ -16,7 +15,6 @@ Repository con recopilación de scripts didácticos de Python3.
 - [CursoPython8-Listas](./CursoPython8-Listas)
 - [CursoPython9-Tuplas](./CursoPython9-Tuplas)
 - [Juegos](./Juegos)
-- [__pycache__](./__pycache__)
 <!-- PROJECTS_END -->
 
 ## 📌 Sobre este repositorio
