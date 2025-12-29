@@ -1,0 +1,1 @@
+Uso de variables, tipos de datos y ejemplos prácticos.
