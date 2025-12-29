@@ -34,12 +34,6 @@ Repository con recopilación de scripts didácticos de Python3.
 - 📁 **[CursoPython9-Tuplas](CursoPython9-Tuplas)** (1 scripts)  
   Aprende a trabajar con tuplas en Python, sus características y cómo usarlas de forma eficiente.
 
-- 📁 **[CursoPython10](CursoPython10)** (1 scripts)  
-  Próximamente.
-
-- 📁 **[CursoPython11](CursoPython11)** (2 scripts)  
-  En proyecto
-
 <!-- COURSES_END -->
 
 ## 🎮 Juegos
