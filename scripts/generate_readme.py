@@ -24,8 +24,15 @@ def get_courses():
     courses = []
     for d in os.listdir("."):
         if d.startswith("CursoPython") and os.path.isdir(d):
-            courses.append(d)
-    return sorted(courses, key=lambda x: int(re.findall(r"\d+", x)[0]))
+            # Intentamos extraer número, si no hay ponemos 0
+            nums = re.findall(r"\d+", d)
+            number = int(nums[0]) if nums else 0
+            courses.append((number, d))
+    # Ordenamos por número
+    courses.sort(key=lambda x: x[0])
+    # Devolvemos solo los nombres
+    return [d for _, d in courses]
+
 
 def get_games():
     if not os.path.isdir("Juegos"):
