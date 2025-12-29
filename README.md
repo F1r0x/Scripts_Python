@@ -31,7 +31,10 @@ Repository con recopilación de scripts didácticos de Python3.
 - 📁 **[CursoPython8-Listas](CursoPython8-Listas)** (9 scripts)  
   Introducción a listas en Python: creación, manipulación, recorridos y métodos útiles.
 
-- 📁 **[CursoPython11](CursoPython11)** (1 scripts)  
+- 📁 **[CursoPython10](CursoPython10)** (1 scripts)  
+  Próximamente.
+
+- 📁 **[CursoPython11](CursoPython11)** (2 scripts)  
   En proyecto
 
 <!-- COURSES_END -->
