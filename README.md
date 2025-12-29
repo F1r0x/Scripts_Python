@@ -1,7 +1,10 @@
-# 🐍 Scripts con Python 
+# 🐍 Scripts en Python
 
-Recopilación de scripts didácticos con Python3
+Repository con recopilación de scripts didácticos de Python3.
 
 ## 📂 Proyectos
 <!-- PROJECTS_START -->
 <!-- PROJECTS_END -->
+
+## 📌 Sobre este repositorio
+Aquí están agrupados mis scripts y proyectos para aprender Python.
