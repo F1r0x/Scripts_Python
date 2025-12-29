@@ -13,4 +13,4 @@ print("\n [+] Puertos principales:\n")
 for port in my_ports:
     print("  [-] Puerto:", port)
 
-print(f"\n La lista tiene un total de {len(my_ports)} elementos")
+print(f"\n La lista tiene un total de {len(my_ports)} elementos.")

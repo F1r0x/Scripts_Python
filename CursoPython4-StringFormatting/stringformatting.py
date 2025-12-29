@@ -6,3 +6,5 @@ edad = 31
 
 # Utilizamos %s para sustituir por las variables que especifiquemos al final
 print("Hola mi nombre es %s y soy %s. Actualmente tengo %d años" % (name,rol,edad))
+
+## Se utiliza %s para strings y %d para decimales. 

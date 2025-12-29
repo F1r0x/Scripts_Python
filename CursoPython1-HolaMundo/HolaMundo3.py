@@ -1,1 +1,1 @@
-import SoyElModuloPrincipal
+import CursoPython1.HolaMundo2 as HolaMundo2

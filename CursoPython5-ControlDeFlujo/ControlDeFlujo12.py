@@ -5,7 +5,7 @@ todos_son_pares = True
 
 for number in numbers:
     if number % 2 != 0: # Comprobamos si existe algún elemento impar.
-        todos_son_pares = False # Al contempla un impar la variable pasa a valer False para siempre.
+        todos_son_pares = False # Al contempla un impar la variable pasa a valer False para siempre.E
 
 if todos_son_pares:
     print("Todos los elementos de la lista son pares.")
