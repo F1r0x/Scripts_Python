@@ -4,30 +4,32 @@ Repository con recopilación de scripts didácticos de Python3.
 
 ## 📂 Proyectos
 <!-- COURSES_START -->
-- 📁 **[CursoPython-Nmap](CursoPython-Nmap)** (2 scripts)
+- 📁 **[CursoPython-Nmap](CursoPython-Nmap)** (2 scripts)  
+  Scripts para automatizar tareas de Nmap en Python, explorando redes y escaneo de puertos.
 
 - 📁 **[CursoPython1-HolaMundo](CursoPython1-HolaMundo)** (4 scripts)  
-  Introducción básica a Python y primer programa.
+  Introducción a Python con ejemplos básicos. Aprende a ejecutar tu primer programa y conceptos fundamentales.
 
 - 📁 **[CursoPython2-Variables](CursoPython2-Variables)** (7 scripts)  
-  Uso de variables, tipos de datos y ejemplos prácticos.
+  Explicación de variables, tipos de datos y operaciones básicas en Python con ejemplos prácticos.
 
 - 📁 **[CursoPython3-Operaciones](CursoPython3-Operaciones)** (3 scripts)  
-  Uso de operaciones y ejemplos prácticos.
+  Realiza operaciones matemáticas, lógicas y comparaciones para sentar las bases de la programación.
 
 - 📁 **[CursoPython4-StringFormatting](CursoPython4-StringFormatting)** (2 scripts)  
-  Uso de String Format y buenas prácticas con ejemplos prácticos.
+  Aprende a manejar cadenas de texto, formatearlas y utilizar f-strings y métodos de strings en Python.
 
 - 📁 **[CursoPython5-ControlDeFlujo](CursoPython5-ControlDeFlujo)** (12 scripts)  
-  Control de flujo de datos y ejemplos prácticos.
+  Uso de estructuras de control: condicionales, bucles y control de flujo para tomar decisiones en programas.
 
 - 📁 **[CursoPython6-Funciones](CursoPython6-Funciones)** (5 scripts)  
-  Uso de funciones, tipos de datos y ejemplos prácticos.
+  Creación y uso de funciones en Python para organizar el código y reutilizar lógica de manera eficiente.
 
-- 📁 **[CursoPython7-ControlDeErrores](CursoPython7-ControlDeErrores)** (2 scripts)
+- 📁 **[CursoPython7-ControlDeErrores](CursoPython7-ControlDeErrores)** (2 scripts)  
+  Aprende a manejar errores y excepciones en Python usando try, except, finally y raise.
 
 - 📁 **[CursoPython8-Listas](CursoPython8-Listas)** (9 scripts)  
-  Uso de listas, tipos de datos y ejemplos prácticos.
+  Introducción a listas en Python: creación, manipulación, recorridos y métodos útiles.
 
 <!-- COURSES_END -->
 
