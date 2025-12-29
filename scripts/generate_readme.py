@@ -33,7 +33,6 @@ def get_courses():
     # Devolvemos solo los nombres
     return [d for _, d in courses]
 
-
 def get_games():
     if not os.path.isdir("Juegos"):
         return []
@@ -45,11 +44,12 @@ def get_games():
 def generate_section(items, base_path=""):
     lines = []
     for item in items:
-        path = os.path.join(base_path, item)
+        path = os.path.join(base_path, item).replace("\\", "/")  # Para Windows
         scripts = count_scripts(path)
         info = read_info(path)
+        # Aquí añadimos el enlace clicable
         lines.append(
-            f"- 📁 **{item}** ({scripts} scripts)  \n"
+            f"- 📁 **[{item}]({path})** ({scripts} scripts)  \n"
             f"  {info}\n"
         )
     return "\n".join(lines)
@@ -77,4 +77,4 @@ content = re.sub(
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(content)
 
-print("✔ README actualizado con cursos y juegos")
+print("✔ README actualizado con cursos y juegos y enlaces")
