@@ -29,15 +29,6 @@ Repository con recopilación de scripts didácticos de Python3.
 - 📁 **[CursoPython8-Listas](CursoPython8-Listas)** (9 scripts)  
   Uso de listas, tipos de datos y ejemplos prácticos.
 
-<<<<<<< HEAD
-=======
-- 📁 **[CursoPython9-Tuplas](CursoPython9-Tuplas)** (0 scripts)  
-  Uso de tuplas, tipos de datos y ejemplos prácticos.
-
-- 📁 **[CursoPython10](CursoPython10)** (0 scripts)  
-  Próximamente.
-
->>>>>>> fab62eb43e10c3d9402d76a5cc26c0d9964180a3
 <!-- COURSES_END -->
 
 ## 🎮 Juegos
