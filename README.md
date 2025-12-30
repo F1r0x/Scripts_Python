@@ -28,10 +28,12 @@ Repository con recopilación de scripts didácticos de Python3.
 - 📁 **[CursoPython7-ControlDeErrores](CursoPython7-ControlDeErrores)** (2 scripts)  
   Aprende a manejar errores y excepciones en Python usando try, except, finally y raise.
 
+- 📁 **[CursoPython8-Excepciones](CursoPython8-Excepciones)** (2 scripts)
+
 - 📁 **[CursoPython8-Listas](CursoPython8-Listas)** (9 scripts)  
   Introducción a listas en Python: creación, manipulación, recorridos y métodos útiles.
 
-- 📁 **[CursoPython9-Tuplas](CursoPython9-Tuplas)** (1 scripts)  
+- 📁 **[CursoPython9-Tuplas](CursoPython9-Tuplas)** (4 scripts)  
   Aprende a trabajar con tuplas en Python, sus características y cómo usarlas de forma eficiente.
 
 <!-- COURSES_END -->
