@@ -36,10 +36,22 @@ Repository con recopilación de scripts didácticos de Python3.
 - 📁 **[CursoPython9-Tuplas](CursoPython9-Tuplas)** (4 scripts)  
   Aprende a trabajar con tuplas en Python, sus características y cómo usarlas de forma eficiente.
 
+- 📁 **[CursoPython10-Conjuntos](CursoPython10-Conjuntos)** (3 scripts)
+
+- 📁 **[CursoPython11-Diccionarios](CursoPython11-Diccionarios)** (6 scripts)
+
+- 📁 **[CursoPython12-ClasesObjetos](CursoPython12-ClasesObjetos)** (3 scripts)
+
 <!-- COURSES_END -->
 
 ## 🎮 Juegos
 <!-- GAMES_START -->
+- 📁 **[JuegoPython1-Tienda,Stock,Ventas](Juegos/JuegoPython1-Tienda,Stock,Ventas)** (1 scripts)
+
+- 📁 **[JuegoPython2-MarioBros](Juegos/JuegoPython2-MarioBros)** (1 scripts)
+
+- 📁 **[JuegoPython3-Snake](Juegos/JuegoPython3-Snake)** (4 scripts)
+
 - 📁 **[MarioBloc.py](Juegos/MarioBloc.py)** (1 scripts)  
   Juego de plataformas estilo Mario Bros desarrollado en Python. Incluye movimiento, colisiones.
 
