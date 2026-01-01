@@ -20,3 +20,9 @@ for port in my_ports:
 
 print(f"\n La lista tiene un total de {len(my_ports)} elementos.")
 
+
+lista = (1, 2)
+lista.append(3)
+print(lista)
+
+
