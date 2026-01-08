@@ -40,7 +40,7 @@ Repository con recopilación de scripts didácticos de Python3.
 
 - 📁 **[CursoPython11-Diccionarios](CursoPython11-Diccionarios)** (6 scripts)
 
-- 📁 **[CursoPython12-ClasesObjetos](CursoPython12-ClasesObjetos)** (3 scripts)
+- 📁 **[CursoPython12-ClasesObjetos](CursoPython12-ClasesObjetos)** (6 scripts)
 
 <!-- COURSES_END -->
 
