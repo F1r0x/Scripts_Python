@@ -44,6 +44,8 @@ Repository con recopilación de scripts didácticos de Python3.
 
 - 📁 **[CursoPython13-MetodosEstaticosMetodosDeClase](CursoPython13-MetodosEstaticosMetodosDeClase)** (3 scripts)
 
+- 📁 **[CursoPython14-UsoDelSelf](CursoPython14-UsoDelSelf)** (2 scripts)
+
 <!-- COURSES_END -->
 
 ## 🎮 Juegos
