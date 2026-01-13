@@ -10,7 +10,6 @@ class Calculadora:
 
     # Suma
     def suma(self, valor2):
-        print(self.valor + valor2)
         return self.valor + valor2
         
 
@@ -34,5 +33,8 @@ calc.mult(5)
 calc.div(5)
 calc.div(0)
 
+
+
 calc.doblesuma(5, 5)
+print(calc.suma(10))
 
