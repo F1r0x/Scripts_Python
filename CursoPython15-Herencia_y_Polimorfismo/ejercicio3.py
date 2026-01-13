@@ -21,6 +21,8 @@ class Moto(Automovil):
     def describir(self):
         return f"\n [+] Motocicleta: {self.marca} {self.modelo}"
 
+def describir_vehiculo(vehiculo):
+    print(vehiculo.describir())
 
 # Objetos 
 porche = Automovil("Porche", "911")
@@ -29,3 +31,6 @@ honda = Moto("Honda", "CBR")
 # Mostrar por pantalla
 print(porche.describir())
 print(honda.describir())
+
+describir_vehiculo(porche)
+describir_vehiculo(honda)
