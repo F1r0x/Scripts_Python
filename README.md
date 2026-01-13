@@ -46,6 +46,8 @@ Repository con recopilación de scripts didácticos de Python3.
 
 - 📁 **[CursoPython14-UsoDelSelf](CursoPython14-UsoDelSelf)** (3 scripts)
 
+- 📁 **[CursoPython15-Herencia_y_Polimorfismo](CursoPython15-Herencia_y_Polimorfismo)** (3 scripts)
+
 <!-- COURSES_END -->
 
 ## 🎮 Juegos
