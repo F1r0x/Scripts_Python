@@ -48,6 +48,8 @@ Repository con recopilación de scripts didácticos de Python3.
 
 - 📁 **[CursoPython15-Herencia_y_Polimorfismo](CursoPython15-Herencia_y_Polimorfismo)** (7 scripts)
 
+- 📁 **[CursoPython16-Encapsulamiento_y_Metodos_Especiales](CursoPython16-Encapsulamiento_y_Metodos_Especiales)** (4 scripts)
+
 <!-- COURSES_END -->
 
 ## 🎮 Juegos
